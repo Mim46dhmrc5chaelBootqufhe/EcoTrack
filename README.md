@@ -4,3 +4,4 @@ SetupGuide
 TrackingFeatures
 DependenciesList
 CodeExamples
+ConfigurationSettings

@@ -12,3 +12,4 @@ EnvironmentalFAQ
 Changelog
 TestingInstructions
 TrackingPerformance
+CommunityResources
